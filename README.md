@@ -12,3 +12,4 @@ foo
 foo
 FOO
 FOO
+FOO
