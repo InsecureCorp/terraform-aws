@@ -1,4 +1,5 @@
 pr_comments_enabled: true
+pr_comments_on_passed_check_enabled: true
 pr_status_thresholds:
   critical: 0
   high: 999
