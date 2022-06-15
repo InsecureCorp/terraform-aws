@@ -1,4 +1,4 @@
-pr_status_force_pass_enabled: false
+#pr_status_force_pass_enabled: false
 #pr_comments_enabled: true
 #pr_status_thresholds:
 #  critical: 0
